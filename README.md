@@ -13,3 +13,6 @@ This sub-project aims to solve two problems defined by an in-class Kaggle compet
 
 ## Project 4
 This sub-project is an implementation of text sentiment analysis and tests various models of analyzing text to make predictions about the rating a user might have given after writing the text review. The best perfoming models was the predictor trained on the counts of unique unigrams in the training set without removing the punctuation, showing us that punctuation is an indicator of the attitude of text.
+
+## Final Project
+The link to the paper I wrote on this project can be found at the link: https://docs.google.com/document/d/1AmCMEGSpOrIwSPVjrQhQYz9En-1VOG6zb3a7Klu3ncE/edit?usp=sharing
